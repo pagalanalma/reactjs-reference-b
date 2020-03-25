@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://localhost:5000",
+    "apiUrl": "http://localhost:5000/api",
+    "mailUrl": "//www.launchcap.com.au/server/contacts.php",
+    "hubspotUrl": "https://api.hubapi.com/deals/v1/deal/",
+    "hubspotKey": "a6f6bda9-9276-4a18-a042-091e8da93688"
+}

@@ -1,0 +1,54 @@
+.label {
+  font-weight: 600;
+}
+
+.signature-container {
+  margin: 50px 0 50px 0;
+  padding: 20px;
+}
+
+.signature-container .signature-header {
+  font-weight: 600;
+  font-size: larger;
+}
+
+.signature-container .signature-body {
+  margin-top: 15px;
+}
+
+.signature-container .signature-body .signature-holder {
+  margin: 50px 0 50px 0;
+}
+
+.signature-container .signature-body .signature-holder label {
+  font-weight: 600;
+}
+
+.table-container {
+  background-color: #EEEEEE;
+}
+
+.primary-button {
+  border: none;
+  padding: 15px 60px;
+  background: #beeadf;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.modal-header {
+  display: -webkit-flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 1rem 1rem;
+  border-bottom: 1px solid #dee2e6;
+  border-top-left-radius: calc(0.3rem - 1px);
+  border-top-right-radius: calc(0.3rem - 1px);
+}
+/*# sourceMappingURL=term.css.map */

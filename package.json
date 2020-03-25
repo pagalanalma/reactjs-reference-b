@@ -1,0 +1,60 @@
+{
+  "name": "launchcap",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "dropbox": "^4.0.30",
+    "fetch": "^1.1.0",
+    "formsy-react": "^1.1.5",
+    "hubspot": "^2.3.5",
+    "jquery": "^3.4.1",
+    "jquery-ui-bundle": "^1.12.1-migrate",
+    "jwt-decode": "^2.2.0",
+    "node-sass": "^4.13.1",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-dom": "^16.12.0",
+    "react-hook-form": "^3.28.14",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-scroll": "^1.7.14",
+    "react-signature-canvas": "^1.0.3",
+    "react-spinners": "^0.8.0",
+    "react-toastify": "^5.5.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "styled-components": "^4.4.1",
+    "trim-canvas": "^0.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-emotion": "^10.0.27"
+  }
+}
